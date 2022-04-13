@@ -1,0 +1,4 @@
+babel/node_modules
+concurrently/node_modules
+*/node_modules
+.idea
